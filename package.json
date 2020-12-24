@@ -3,6 +3,7 @@
     "displayName": "ionic-angular-extension-pack",
     "description": "Ionic and Angular extension pack",
     "version": "0.0.1",
+    "publisher": "fernandomacoli",
     "engines": {
         "vscode": "^1.52.0"
     },
