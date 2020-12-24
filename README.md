@@ -2,9 +2,6 @@
 
 ## Extensões incluídas
 
-https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-
-
 - [EditorConfig for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Esse plugin sobreescreve as configurações do editor baseado no arquivo `.editorconfig` local.
 
 
