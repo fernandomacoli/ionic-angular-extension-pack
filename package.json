@@ -1,0 +1,22 @@
+{
+    "name": "ionic-angular-extension-pack",
+    "displayName": "ionic-angular-extension-pack",
+    "description": "Ionic and Angular extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "fivethree.vscode-ionic-snippets", 
+        "johnpapa.Angular2", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "msjsdiag.cordova-tools", 
+        "msjsdiag.debugger-for-chrome", 
+        "PKief.material-icon-theme"
+    ]
+}
